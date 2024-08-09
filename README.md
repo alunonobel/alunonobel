@@ -1,16 +1,17 @@
-## Hi there 👋
+## Bem Vindo ao Meu Perfil 👋😎
 
-<!--
-**alunonobel/alunonobel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Meu nome é 007
 
-Here are some ideas to get you started:
+-Yo estoy estudando no [ALURA] ()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou desenvolvendo a lunguagem JavaScript
+
+-Utilizo este espaço para a organização de meus projetos, baby
+
+-### VocÊ pode entrar em contata comigo atravez do canal: "Fé e Honra." Youtube
+
+
+
+
+
+![](https://media1.tenor.com/m/Syo75lZhQ4gAAAAC/rambo-thumbs-up-rambo.gif)
